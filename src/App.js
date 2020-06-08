@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
+    <div class="App">
       HELLO <strong>Ehtisham Hussain</strong>
       <h1>PIAIC (PRESIDENTIAL INTITIATIVE OF ARTIFICAL INTELLIGENCE AND COMPUTING) </h1>
       <p>Following are the programs that are offered by PIAIC</p>
