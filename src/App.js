@@ -13,6 +13,7 @@ function App() {
         <li>Cloud Native Computing</li>
         <li>Blockchain</li>
       </ol>
+      {5+10};
     </div>
   );
 }
